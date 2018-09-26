@@ -89,6 +89,8 @@ and our administrator may contact you if we need any extra information.</h4>
   can use https://itouchmap.com/latlong.html to find the lat/long of an
   address.
 {% endcomment %}
+
+ ![](fig/edit-index-file-menu-bar.png?raw=true)
 {% if page.latlng %}
 <p id="where">
   <strong>Where:</strong>
